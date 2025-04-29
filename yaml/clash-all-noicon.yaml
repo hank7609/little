@@ -7,7 +7,7 @@
 proxy-providers:
 
   火烧云:
-    url: "[订阅地址（机场原始地址/Sub-Store格式化后的地址）]"
+    url: "[https://liangxin.xyz/api/v1/liangxin?OwO=4d946f5c93c2a8cb4291838077808fa5]"
     type: http
     interval: 86400
     health-check:
